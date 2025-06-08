@@ -1,8 +1,8 @@
 # Analysis-Synthesis Co-op
 
-- [Charter](./charter_ru.md): what, why, how.
-- [Project Selection](./projects_ru.md): how to propose your idea.
-- [Income Distribution](./finance_ru.md): more details about finances.
+- [Charter](./charter.md): what, why, how.
+- [Project Selection](./projects.md): how to propose your idea.
+- [Income Distribution](./finance.md): more details about finances.
 
 ---
 
