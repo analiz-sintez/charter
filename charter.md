@@ -1,48 +1,48 @@
 # Charter of the Analiz-Sintez Cooperative
 
-## What We Are Creating
+## Our Mission
 
-We are creating a **venture cooperative**: a structure capable of financing interesting and risky IT projects under open licenses and ensuring fair compensation for the project participants.
+We are establishing a **venture cooperative** designed to finance intriguing and risky IT projects under open licenses while ensuring fair compensation for participants.
 
-The strategic goal of the cooperative is to guarantee its members a stable opportunity to work creatively on interesting projects, publish them as open source, receive fair compensation, and develop professionally.
+The strategic goal of the cooperative is to provide its members with a consistent opportunity to engage in creative work on interesting projects, publish them as open source, receive fair compensation, and advance professionally.
 
-The tactical task of the cooperative is to create paid digital products based on open source solutions developed by the co-op and to enhance the cooperative’s reputation.
+The cooperative's tactical objective is to develop paid digital products based on open-source solutions created by the co-op, thereby enhancing its reputation.
 
-## Principles
+## Core Principles
 
-The cooperative is organized on the principles of:
+The cooperative functions based on the principles of:
 
-- Meritocracy: influence on decisions is earned through contributions to the cooperative, primarily through work. [This part will later be formalized in the form of a DAO.]
-- Do-o-cracy: if a participant believes something needs to be done, they are not required to ask for permission, they can just do it (although the practice of consultation should be rooted).
+- Meritocracy: decision-making influence is earned through contributions to the cooperative, primarily through labor. [This aspect will later be formalized in the form of a DAO.]
+- Do-o-cracy: if someone believes an action is necessary, they are encouraged to proceed without seeking permission (though consultation should still be practiced).
 
 ## What the Cooperative is Not
 
-The cooperative does not aim for significant personal enrichment of its members. Personal profit from work in the cooperative is capped—but with ample room: see [finance.md](./finance.md).
+The cooperative does not aim to greatly enrich its members. Personal profit from work within the cooperative is capped—but with significant room: see [finance.md](./finance.md).
 
-The cooperative does not aim to attract private capital, as private capital involvement in management creates risks for our objectives. (However, we will gratefully accept grants.) The ability to manage the cooperative is provided solely by the work invested in it.
+The cooperative does not seek to attract private capital since its involvement in management poses risks to our objectives. (However, we will gratefully accept grants.) Management authority in the cooperative is derived solely from the work invested.
 
-Without diminishing the value of explosive product growth, the cooperative values long-term sustainability more.
+While acknowledging the significance of rapid product growth, the cooperative places greater value on long-term stability.
 
 ## Shares, Compensation, and Profit Distribution
 
-Each participant contributes 500 hours of labor as a share. These hours are to be contributed within three years from the establishment of the cooperative [this is 3-4 hours a week if distributed evenly].
+Each participant is required to contribute 500 hours of work as a share, which must be completed within three years from the cooperative's establishment [equivalent to 3-4 hours a week if spread evenly].
 
-Once the cooperative begins to generate profit, these hours will be compensated at $20/hour, including both new and already contributed hours. [Thus, in three years, participants will earn $10k, which the cooperative will pay from its profits. Essentially, the share value is secured by the actual hourly worth of participant labor being above $20.] A maximum of 50% of the profits can be spent on these payments. All hours will ultimately be paid if the cooperative's profits are sufficient.
+Once profitable, the cooperative will compensate these hours at $20/hour, including both new and previously contributed hours. [This means, over three years, participants will earn $10k, which the cooperative will pay from profits. Essentially, the share value is justified by actual labor being worth more than $20/hour]. A maximum of 50% of profits can be allocated to these payments. All hours will eventually be paid if the cooperative is sufficiently profitable.
 
-Further, by decision of the participants' assembly, up to 50% of the cooperative's profits may be distributed as bonuses. The bonus will be distributed proportionally to the total number of hours a participant has worked for the cooperative since its inception, but no more than achieving an effective rate of $100/hour. [In the future, we’ll complicate the system by adding validated hypotheses and launched projects to the hours.]
+Furthermore, up to 50% of the cooperative's profits may be allocated as bonuses by decision of the participants' assembly. Bonuses are distributed based on the total number of hours a participant has worked since the cooperative’s inception but cannot exceed an effective rate of $100/hour. [In the future, we plan to incorporate validated hypotheses and launched projects into the hours calculation.]
 
-> Short rule: "from $20 to $100 per hour, considering all accumulated hours, equalizing effective rates."
+> Summary: "from $20 to $100 per hour, considering all accumulated hours and balancing effective rates."
 
 Details: [finance.md](./finance.md)
 
 ## Project Selection
 
-The cooperative chooses projects to invest resources in at the general assembly. These projects must align with the cooperative’s values and contribute to its profit growth directly [e.g., working on client projects or paid courses] or indirectly [e.g., PR activities like articles, development of open source tools, working on the cooperative’s infrastructure].
+The cooperative selects projects for resource investment through a general assembly. These projects must align with the cooperative's values and support profit growth directly [such as client projects or paid courses] or indirectly [such as PR activities, open source tool development, or infrastructure work].
 
 Details: [projects.md](./projects.md)
 
 ## New Members and External Collaborators
 
-The cooperative can engage outsiders to work on its projects, paying them $20/hour or through fixed rewards for specific tasks.
+The cooperative may engage non-members for project work, paying them $20/hour or offering fixed compensation for specific tasks.
 
-Anyone who has worked for the cooperative for 500 hours or more [or completes tasks of equivalent volume] can apply for membership. The decision to accept new members is made by the general assembly. [This way, we attract less experienced individuals for whom $20/hour is a market rate.]
+Individuals who have contributed 500 hours or more [or completed tasks of equivalent scope] may apply for membership. New member acceptance is decided by the general assembly. [This approach allows us to attract less experienced individuals for whom $20/hour is a market rate.]
